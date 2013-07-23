@@ -332,21 +332,17 @@
     // General labels
     {
         "class": "label_control",
-        "color": [0, 0, 0]
+        "color": [127, 140, 141]
     },
     // Text field labels
     {
         "class": "label_control",
-        "parents": [{"class": "panel_control"}],
-        "shadow_color": [250, 250, 250],
-        "shadow_offset": [0, 1]
+        "parents": [{"class": "panel_control"}]
     },
     // Button labels
     {
         "class": "label_control",
-        "parents": [{"class": "button_control"}],
-        "shadow_color": [245, 245, 245],
-        "shadow_offset": [0, 1]
+        "parents": [{"class": "button_control"}]
     },
 
 //
@@ -364,7 +360,7 @@
     // Tooltip content
     {
         "class": "tool_tip_label_control",
-        "color": [0, 0, 0]
+        "color": [189, 195, 199]
     },
 
 //
@@ -703,7 +699,7 @@
     },
     {
         "class": "quick_panel_score_label",
-        "fg": [72, 139, 211, 255],
+        "fg": [52, 152, 219, 255],
         "selected_fg": [72, 139, 211, 255]
     },
 
